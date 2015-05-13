@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/jquery-ui",
+  "description": "Shim repository for jQuery UI",
+  "homepage": "http://jqueryui.com",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": ">=1.6"
+  }
+}
